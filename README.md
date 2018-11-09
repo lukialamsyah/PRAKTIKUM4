@@ -57,7 +57,7 @@ Alur algoritma
 
 Flowchart program https://github.com/lukialamsyah/praktikum4/blob/master/latihan2/flowchart2.jpg
 
-Pict program https://github.com/lukialamsyah/praktikum4/blob/master/latihan2/latihan2.png https://github.com/rivaldiahmad/praktikum4/blob/master/latihan2/latihan2%20(2).png
+Pict program https://github.com/lukialamsyah/praktikum4/blob/master/latihan2/latihan2.png https://github.com/lukialamsyah/praktikum4/blob/master/latihan2/latihan2%20(2).png
 
 Kode lengkap program
 
